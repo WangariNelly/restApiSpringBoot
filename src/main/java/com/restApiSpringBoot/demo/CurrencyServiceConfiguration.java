@@ -1,7 +1,6 @@
 package com.restApiSpringBoot.demo;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
-//import org.springframework.context.annotation.Conditional;
 import org.springframework.stereotype.Component;
 
 @Component
